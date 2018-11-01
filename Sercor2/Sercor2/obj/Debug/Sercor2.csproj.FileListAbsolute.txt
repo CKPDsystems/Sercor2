@@ -1,0 +1,10 @@
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\bin\Debug\Sercor2.exe.config
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\bin\Debug\Sercor2.exe
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\bin\Debug\Sercor2.pdb
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.csprojAssemblyReference.cache
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.Form1.resources
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.Properties.Resources.resources
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.csproj.GenerateResource.cache
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.csproj.CoreCompileInputs.cache
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.exe
+C:\Users\eyase\Documents\GitHub\Sercor2\Sercor2\Sercor2\obj\Debug\Sercor2.pdb
